@@ -1,7 +1,7 @@
 # Module-1-Challenge
 
 
-I changed all the <div> tags to semantic elements, Such as Header,nav, and section.
+I changed all the "div" tags to semantic elements, Such as Header,nav, and section.
 
 I also gave the images alt atributes to clearly define the images displayed on the browser.
 
